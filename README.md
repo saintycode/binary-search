@@ -1,2 +1,4 @@
 # binary-search
-binary search template
+binary search 
+python code
+
